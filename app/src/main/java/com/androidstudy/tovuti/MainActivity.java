@@ -5,16 +5,18 @@ import android.net.ConnectivityManager;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
+import com.androidstudy.tovuti.databinding.ActivityMainBinding;
+
 import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
+
     private ActivityMainBinding binding;
     private Tovuti tovuti;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main);
 
         tovuti = Tovuti.from(this)

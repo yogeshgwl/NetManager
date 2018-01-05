@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Tovuti</string>
+    <string name="connection_status">Connected to: %s</string>
+    <string name="connection_speed">Speed: %s</string>
 </resources>
