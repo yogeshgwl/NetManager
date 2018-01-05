@@ -6,6 +6,9 @@ import android.content.pm.PackageManager;
 import android.support.annotation.NonNull;
 import android.support.v4.content.ContextCompat;
 
+import com.androidstudy.tovuti.Monitor;
+import com.androidstudy.tovuti.MonitorFactory;
+
 public class DefaultMonitorFactory implements MonitorFactory {
     public static final String ACCESS_NETWORK_PERMISSION = Manifest.permission.ACCESS_NETWORK_STATE;
 

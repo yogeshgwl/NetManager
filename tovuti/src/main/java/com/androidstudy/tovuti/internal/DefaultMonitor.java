@@ -9,6 +9,8 @@ import android.os.Handler;
 import android.os.Looper;
 import android.util.Log;
 
+import com.androidstudy.tovuti.Monitor;
+
 public class DefaultMonitor implements Monitor {
 
     private final Handler mainHandler = new Handler(Looper.getMainLooper());
