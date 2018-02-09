@@ -29,7 +29,7 @@ That's it, you have set up the required permissions and ready to go!
 
 ## Quick Example
 
-You can use it in both Android Activities and Fragments, as shown using the code snippets below. You can now replace the toasts with a call to make your HTTP Request now!
+You can use it in both Android Activities and Fragments, as shown using the code snippets below. You can now replace the dots with a call to make your HTTP Request now!
 
 ```java
 import com.androidstudy.networkmanager.Monitor;
