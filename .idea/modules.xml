@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Tovuti.iml" filepath="$PROJECT_DIR$/Tovuti.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tovuti/tovuti.iml" filepath="$PROJECT_DIR$/tovuti/tovuti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tovuti.iml" filepath="$PROJECT_DIR$/tovuti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tovuti/tovuti-tovuti.iml" filepath="$PROJECT_DIR$/tovuti/tovuti-tovuti.iml" />
     </modules>
   </component>
 </project>
