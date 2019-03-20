@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NetLib</string>
+    <string name="_normal_connecting_msg">You are connected now.</string>
+    <string name="strong_connecting_msg">You are connected with strong signal.</string>
+    <string name="week_connecting_msg">You are connected with week signal.</string>
+    <string name="seems_you_are_offline">Oops.. It seems you\'re offline.</string>
+
+</resources>

@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netmanager/netmanager.iml" filepath="$PROJECT_DIR$/netmanager/netmanager.iml" />
       <module fileurl="file://$PROJECT_DIR$/tovuti.iml" filepath="$PROJECT_DIR$/tovuti.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tovuti/tovuti-tovuti.iml" filepath="$PROJECT_DIR$/tovuti/tovuti-tovuti.iml" />
     </modules>
   </component>
 </project>

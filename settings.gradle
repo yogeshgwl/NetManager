@@ -1,1 +1,1 @@
-include ':app', ':tovuti'
+include ':app', ':netmanager'
